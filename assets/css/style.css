@@ -11,7 +11,19 @@ body {
     padding-top: 10rem;
 }
 
-#experiencia{
 
-}
 
+.modal-dialog {
+    height: 100%;
+  }
+
+  .modal-content {
+    height: inherit;
+    border: 0;
+    border-radius: 0;
+  }
+
+  .modal-body iframe{
+    height: 1150px;
+    width: 100%;
+  }
