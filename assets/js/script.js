@@ -1,4 +1,7 @@
-$('#contactForm').on('shown.bs.modal', function () {
-    $('#myInput').trigger('focus')
-  })
-$('#contactForm').modal('handleUpdate')
+if ($('#contactForm').is('visible')) {
+  let a = $('#modal-form').height();
+console.log("a")
+}
+
+
+ 

@@ -11,10 +11,22 @@ body {
     padding-top: 10rem;
 }
 
+#experiencia h2{
+    font-weight: 700;
+}
+#experiencia h3{
+    font-weight: 300;
+}
 
-
+#experiencia img{
+    max-height: 20%;
+}
+#experiencia{
+    max-height: 50%;
+    padding-bottom: 0px;
+}
 .modal-dialog {
-    height: 100%;
+    height: auto;
   }
 
   .modal-content {
@@ -22,8 +34,10 @@ body {
     border: 0;
     border-radius: 0;
   }
-
-  .modal-body iframe{
+.modal-body{
+    height: auto;
+}
+  #modal-form{
     height: 1150px;
     width: 100%;
   }
