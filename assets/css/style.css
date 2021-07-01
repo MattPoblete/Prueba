@@ -1,0 +1,17 @@
+body {
+    font-family: 'Montserrat', sans-serif !important;
+    text-align: center;
+}
+
+#hero-section{
+    color:#fff;
+    background-image: url(../img/bg_hero.jpg);
+    background-size: cover;
+    background-repeat: none;
+    padding-top: 10rem;
+}
+
+#experiencia{
+
+}
+
