@@ -36,3 +36,13 @@ iframe {
     padding: 0;
     margin:0;
   }
+
+footer a{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer a:hover{
+    text-decoration: none !important;
+    color: #fff !important;
+}
